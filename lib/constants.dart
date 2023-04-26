@@ -38,3 +38,5 @@ const kFemaleIcon = FontAwesomeIcons.venus;
 const kFemale = "FEMALE";
 const kMale = "MALE";
 const kIconColour = Color(0xFF8D8E98);
+const double kMaxHumanHeight = 400.0;
+const double kMinHumanHeight = 50.0;
